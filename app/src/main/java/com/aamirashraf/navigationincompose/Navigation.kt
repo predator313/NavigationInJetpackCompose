@@ -77,6 +77,9 @@ fun MainScreen(navController: NavController) {
     }
 }
 
+//this section is about the some basic concept of the navigation in compose
+//i need to do some more project in navigation in compose
+
 @Composable
 fun DetailScreen(
     name:String?
